@@ -32,11 +32,11 @@
 
 ## Usage
 
-1. Replace in your config.h the color schemes with one of those:
+1. Replace the color scheme in your config.h with one from one of these folders:
 
-- [Frappe](https://github.com/catppuccin/wvkbd/blob/main/wvkbd-frappe.h)
-- [Macchiato](https://github.com/catppuccin/wvkbd/blob/main/wvkbd-macchiato.h)
-- [Mocha](https://github.com/catppuccin/wvkbd/blob/main/wvkbd-mocha.h)
+- [Frappe](./themes/frappe/)
+- [Macchiato](./themes/macchiato/)
+- [Mocha](./themes/mocha/)
 
 2. Compile wvkbd.
 
