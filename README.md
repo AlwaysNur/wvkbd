@@ -32,7 +32,7 @@
 
 ## Usage
 
-1. Replace in your config.h the color schemes with one from one of these folders:
+1. Replace the color scheme in your config.h with one from one of these folders:
 
 - [Frappe](./themes/frappe/)
 - [Macchiato](./themes/macchiato/)
